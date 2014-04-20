@@ -1,0 +1,27 @@
+﻿生成启动时间为 2014/4/20 星期日 13:59:27。
+     1>项目“D:\酷盘\技术资料\CPP\STLDemo\SortDemo\SortDemo\SortDemo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\SortDemo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\Microsoft_VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test_data.cpp
+         test_data.cpp
+       Link:
+         e:\Microsoft_VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\酷盘\技术资料\CPP\STLDemo\SortDemo\Debug\SortDemo.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SortDemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\酷盘\技术资料\CPP\STLDemo\SortDemo\Debug\SortDemo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\酷盘\技术资料\CPP\STLDemo\SortDemo\Debug\SortDemo.lib" /MACHINE:X86 Debug\bubble_sort.obj
+         Debug\choose_sort.obj
+         Debug\heap_sort.obj
+         Debug\insert_sort.obj
+         Debug\test_data.obj
+         Debug\main.obj
+         Debug\quick_sort.obj
+         LINK : 没有找到 D:\酷盘\技术资料\CPP\STLDemo\SortDemo\Debug\SortDemo.exe 或上一个增量链接没有生成它；正在执行完全链接
+         SortDemo.vcxproj -> D:\酷盘\技术资料\CPP\STLDemo\SortDemo\Debug\SortDemo.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\酷盘\技术资料\CPP\STLDemo\SortDemo\Debug\SortDemo.exe;#1" /manifest Debug\SortDemo.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\SortDemo.unsuccessfulbuild”。
+         正在对“Debug\SortDemo.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\酷盘\技术资料\CPP\STLDemo\SortDemo\SortDemo\SortDemo.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67
